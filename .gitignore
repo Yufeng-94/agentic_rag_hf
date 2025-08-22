@@ -1,0 +1,12 @@
+# python cache
+*/__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# data files
+*.csv
+*.jsonl
+data/faiss/
+
+# environment files
+llm.env
